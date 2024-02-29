@@ -7,7 +7,9 @@
 </head>
 <body>
   <h2>Hello there... this is a Hello World GitHub Test, on html and javascript.</h2>
-  <h4>HTML >> Hello World!</h4>
-  <h4>Javascript >> <script>document.write("Hello World!");</script></h4>
+  <h4>HTML: Hello World!</h4>
+  <h4><script>document.write("Javascript: Hello World!");</script></h4>
+  <h4><?php echo "PHP: Hello world!"?></h4>
 </body>
 </html>
+<!-- This file it's only for test project in GitHub. -->
