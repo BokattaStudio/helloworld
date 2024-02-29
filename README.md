@@ -1,2 +1,2 @@
 # helloworld
-Hello World GitHub Test
+This is a Bokatta Studio "Hello World" GitHub test.
