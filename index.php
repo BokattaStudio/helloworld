@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello World GitHub Test v0.4</title>
+    <style>
+        body{
+            background-color: gainsboro;
+        }
+    </style>
 </head>
 <body>
   <h2>Hello there... this is a Hello World GitHub Test, on html and javascript.</h2>
